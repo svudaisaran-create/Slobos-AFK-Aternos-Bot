@@ -8,7 +8,7 @@
   "server": {
     "ip": "saran_minecraft.aternos.me",
     "port": 58299,
-    "version": "26.1",
+    "version": "26.1.1",
     "try-creative": false
   },
   "position": {
