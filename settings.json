@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "saran_minecraft.aternos.me",
-    "port": 58299,
+    "ip": "sharpwordSMP.aternos",
+    "port": 33500,
     "version": "26.1.1",
     "try-creative": false
   },
